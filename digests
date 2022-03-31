@@ -3,3 +3,9 @@ fa98f78ba76d79ed9dc0dd2f5276266a79255f00cc900c3b3ee0556ad2f6b685  LSI_PreBoot_CD
 
 [liveuser@localhost Downloads]$ sha256sum Megarec-lsi.zip 
 926e9900715cdcb636dc9078f99c36779632f2164e973c219c39f929e3741c56  Megarec-lsi.zip
+
+unarchived
+[liveuser@localhost Downloads]$ sha256sum MegaRec.exe 
+c31fa6c895fde48a8d68f1b425fe8aad008095c439b441bd54a1cb12bcf0102d  MegaRec.exe
+[liveuser@localhost Downloads]$ sha256sum DOS4GW.EXE 
+b8265123ac8a189637448618409ef3ecd2e9f3e1a47062c685a02240f688dec1  DOS4GW.EXE
