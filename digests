@@ -1,2 +1,5 @@
 [liveuser@localhost Downloads]$ sha256sum LSI_PreBoot_CD.iso 
 fa98f78ba76d79ed9dc0dd2f5276266a79255f00cc900c3b3ee0556ad2f6b685  LSI_PreBoot_CD.iso
+
+[liveuser@localhost Downloads]$ sha256sum Megarec-lsi.zip 
+926e9900715cdcb636dc9078f99c36779632f2164e973c219c39f929e3741c56  Megarec-lsi.zip
